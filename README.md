@@ -29,6 +29,10 @@ I’m a passionate **Software Engineer** and **Web Developer** who specializes i
   <img align="left" title="CSS" alt="CSS" width="40px" src="./assets/css-logo.svg" />
 </a>
 
+<a href="https://tailwindcss.com" target="_blank">
+  <img align="left" title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="./assets/tailwind-logo.png" />
+</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" title="JavaScript" alt="JavaScript" width="40px" src="./assets/javascript-logo.svg" />
 </a>
@@ -39,6 +43,14 @@ I’m a passionate **Software Engineer** and **Web Developer** who specializes i
 
 <a href="https://nodejs.org" target="_blank">
   <img align="left" title="Node.js" alt="Node.js" width="40px" src="./assets/nodejs-logo.svg" />
+</a>
+
+<a href="https://laravel.com" target="_blank">
+  <img align="left" title="Laravel" alt="Laravel" width="40px" src="./assets/laravel-logo.svg" />
+</a>
+
+<a href="https://www.apachefriends.org/index.html" target="_blank">
+  <img align="left" title="XAMPP" alt="XAMPP" width="40px" src="./assets/xampp-logo.png" />
 </a>
 
 <a href="https://expressjs.com" target="_blank">
@@ -55,6 +67,14 @@ I’m a passionate **Software Engineer** and **Web Developer** who specializes i
 
 <a href="https://www.docker.com" target="_blank">
   <img align="left" title="Docker" alt="Docker" width="40px" src="./assets/docker-logo.svg" />
+</a>
+
+<a href="https://www.canva.com" target="_blank">
+  <img align="left" title="Canva" alt="Canva" width="40px" src="./assets/canva-logo.svg" />
+</a>
+
+<a href="https://www.netlify.com" target="_blank">
+  <img align="left" title="Netlify" alt="Netlify" width="40px" src="./assets/netlify-logo.svg" />
 </a>
 
 <br clear="left" />
