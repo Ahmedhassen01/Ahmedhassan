@@ -30,7 +30,7 @@ I’m a passionate **Software Engineer** and **Web Developer** who specializes i
 </a>
 
 <a href="https://tailwindcss.com" target="_blank">
-  <img align="left" title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="./assets/tailwind-logo.png" />
+  <img align="left" title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="./assets/tailwind-logo1.png" />
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
