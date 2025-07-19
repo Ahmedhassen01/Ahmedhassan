@@ -52,4 +52,5 @@ I’m a passionate **Software Engineer** and **Web Developer** who specializes i
 </p>
 ### 🚀 Let's Build the Future
 > *"Building web experiences, managing tech strategies, and always pushing boundaries."*
+
 -->
