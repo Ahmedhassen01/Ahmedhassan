@@ -21,11 +21,43 @@ I’m a passionate **Software Engineer** and **Web Developer** who specializes i
 
 ### 💻 Tech Stack & Skills
 
-- 🌐 **Frontend**: HTML, CSS, JavaScript, React.js
-- ⚙️ **Backend**: Node.js, Express.js
-- 🧠 **Database**: MongoDB
-- 🛠️ **Tools & Platforms**: Git, GitHub, VS Code, REST APIs
-- 📈 **Focus Areas**: Web app architecture, Tech leadership, Project building and management
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img align="left" title="HTML" alt="HTML" width="40px" src="./assets/html-logo.svg" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img align="left" title="CSS" alt="CSS" width="40px" src="./assets/css-logo.svg" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img align="left" title="JavaScript" alt="JavaScript" width="40px" src="./assets/javascript-logo.svg" />
+</a>
+
+<a href="https://reactjs.org" target="_blank">
+  <img align="left" title="React.js" alt="React.js" width="40px" src="./assets/react-logo.svg" />
+</a>
+
+<a href="https://nodejs.org" target="_blank">
+  <img align="left" title="Node.js" alt="Node.js" width="40px" src="./assets/nodejs-logo.svg" />
+</a>
+
+<a href="https://expressjs.com" target="_blank">
+  <img align="left" title="Express.js" alt="Express.js" width="40px" src="./assets/express-logo.svg" />
+</a>
+
+<a href="https://www.mongodb.com" target="_blank">
+  <img align="left" title="MongoDB" alt="MongoDB" width="40px" src="./assets/mongodb-logo.svg" />
+</a>
+
+<a href="https://git-scm.com" target="_blank">
+  <img align="left" title="Git" alt="Git" width="40px" src="./assets/git-logo.svg" />
+</a>
+
+<a href="https://www.docker.com" target="_blank">
+  <img align="left" title="Docker" alt="Docker" width="40px" src="./assets/docker-logo.svg" />
+</a>
+
+<br clear="left" />
 
 ---
 
