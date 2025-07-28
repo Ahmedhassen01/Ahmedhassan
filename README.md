@@ -7,15 +7,13 @@
 
 <p align="center">
   <a href="https://github.com/Ahmedhassen01/Ahmedhassen01">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20MERN%20Developer;Passionate%20about%20Tech%20Leadership;Web%20Engineer%20with%20a%20vision;Always%20learning%20and%20building!&font=Fira%20Code&center=true&width=500&height=45&color=00c9a7&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&width=435&lines=Hi%2C+I'm+Ahmed+Hassen+%F0%9F%91%8B;Senior+Software+Engineer;Web+Developer;Tech+Enthusiast+%26+Builder") />
   </a>
 </p>
 
 ---
 
-### 👋 Hello, I'm Ahmed Hassen
-
-I’m a passionate **Software Engineer** and **Web Developer** who specializes in building robust, scalable web applications using the **MERN stack**. I have a growing interest in **technology management**, **team leadership**, and delivering software solutions that make an impact.
+I’m a **passionate**, **active** and **creative** person who specializes in building robust, scalable web applications using the **MERN stack**. I have a growing interest in **technology management**, **team leadership**, and delivering software solutions that make an impact.
 
 ---
 
